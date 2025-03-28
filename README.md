@@ -9,9 +9,6 @@
   - [Future Scope](#future-scope)
   - [Contributing](#contributing)
   - [Usage](#usage)
-  - [Screenshots](#screenshots)
-  - [License](#license)
-  - [Author](#author)
 
 
 ## Introduction
