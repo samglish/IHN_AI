@@ -51,9 +51,7 @@
 ## Usage
 
 - Visit the link  [ChatBot](https://github.com/samglish)
-```
-https://varshithvhegde.github.io/chatbot
-```
+
 - Command 'help' will give you all the commands.
     - Command 'time' will give you the current time.
     - Command 'date' will give you the current date.
