@@ -50,7 +50,7 @@
 
 ## Usage
 
-- Visit the link  [ChatBot](https://varshithvhegde.github.io/chatbot)
+- Visit the link  [ChatBot](https://github.com/samglish)
 ```
 https://varshithvhegde.github.io/chatbot
 ```
@@ -66,22 +66,6 @@ https://varshithvhegde.github.io/chatbot
     - Command 'clear' will clear the chat window.
 - Easter Egg 'hi' will give you a response.
 - And many more commands are there.
-
-## Screenshots
-
-![frame_firefox_mac_dark (3)](https://user-images.githubusercontent.com/80502833/189382825-2a790d21-82fa-4ad1-94ce-8ac45e8ec62a.png)
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Author
-
-- Varshith V Hegde
-- [Github](https://github.com/Varshithvhegde)
-- [LinkedIn](https://www.linkedin.com/in/Varshithvhegde)
-
-
 
 
 
